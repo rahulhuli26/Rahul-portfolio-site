@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Premkumar Hulikoppe";
+        document.title = "Portfolio | Premkumar";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
