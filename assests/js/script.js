@@ -35,12 +35,13 @@ $(document).ready(function(){
         $('html, body').animate({
             scrollTop : $($(this).attr('href')).offset().top,
         },500, 'linear')
+    })
 });
 
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Premkumar Hulikoppe";
+        document.title = "Portfolio | Saurav Mukherjee";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
@@ -52,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["front end development", "Back end development"],
+        strings: ["front end development", "back end development"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
