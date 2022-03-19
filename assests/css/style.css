@@ -519,28 +519,28 @@ header .navbar ul li a:hover{
   border-radius: 4px;
 }
 .skills .container .col .bar .html:before{
-  width: 90%;
+  width: 100%;
   background: #e03d0b;
 }
 .skills .container .col .bar .css:before{
-  width: 82%;
+  width: 100%;
   background: #2962ff;
 }
 .skills .container .col .bar .javascript:before{
-  width: 82%;
+  width: 100%;
   background: #ffd900;
 }
-.skills .container .col .bar .jquery:before{
-  width: 73%;
-  background: #3d10dd;
+.skills .container .col .bar .git:before{
+  width: 100%;
+  background: maroon;
 }
-.skills .container .col .bar .php:before{
-  width: 84%;
-  background: #8054c7;
+.skills .container .col .bar .postman:before{
+  width: 100%;
+  background: orangered;
 }
-.skills .container .col .bar .mysql:before{
-  width: 80%;
-  background: #f38b03;
+.skills .container .col .bar .mongo:before{
+  width: 100%;
+  background: green;
 }
 .skills .container .col .bar .reactjs:before{
   width: 55%;
@@ -559,7 +559,7 @@ header .navbar ul li a:hover{
   background: #2fdf7e;
 }
 .skills .container .col .bar .nodejs:before{
-  width: 70%;
+  width: 100%;
   background: #298521;
 }
 .skills .container .col .bar .vcs:before{
