@@ -570,9 +570,9 @@ header .navbar ul li a:hover{
   width: 85%;
   background: #1771e7;
 }
-.skills .container .col .bar .firebase:before{
-  width: 90%;
-  background: #ffae00;
+.skills .container .col .bar .npm:before{
+  width: 100%;
+  background:  maroon;
 }
 
 /* skills media queries starts*/
