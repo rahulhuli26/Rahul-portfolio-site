@@ -608,7 +608,7 @@ header .navbar ul li a:hover{
   min-height: 80vh;
 }
 .education .qoute{
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
@@ -624,7 +624,7 @@ header .navbar ul li a:hover{
 .education .box-container .box{
   display: flex;
   flex-direction: row;
-  width: 80%;
+  width: 95%;
   border-radius: .5rem;
   box-shadow: .2rem .5rem 1rem rgba(0, 0, 0, .2);
   text-align: center;
@@ -734,7 +734,7 @@ header .navbar ul li a:hover{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
   position: relative;
   overflow:hidden;
-  height:30rem;
+  height:35rem;
 }
 .work .box-container .box img{
   height: 100%;
@@ -743,7 +743,7 @@ header .navbar ul li a:hover{
 }
 .work .box-container .box .content{
   height: 100%;
-  width:100%;
+  width: 100%;
   position: absolute;
   top:85%; left:0;
   background:rgba(255, 255, 255, 0.9);
@@ -767,7 +767,7 @@ header .navbar ul li a:hover{
   top: 25%;
 }
 .work .desc {
-  margin: 2rem;
+  margin: 0.75rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -779,14 +779,14 @@ header .navbar ul li a:hover{
   display: flex;
   justify-content: space-between;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 0.25rem;
 }
 .work .desc .btns .btn{
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
   border-radius: .5rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #fff;
   background: rgb(12, 12, 12);
   margin-right: 2rem;
